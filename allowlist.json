@@ -46,7 +46,11 @@
       "name": "Skwarka2",
       "xuid": 2535460544914998
     },
-    
+    {
+      "ignoresPlayerLimit": false,
+      "name": "WerkaNotFound",
+      "xuid": 2535452024589632
+    },
     
     //Osoby sezon 4+
     {
@@ -76,6 +80,11 @@
       "ignoresPlayerLimit": false,
       "name": "SareQ",
       "xuid": 2535408528762188
+    },
+    {
+      "ignoresPlayerLimit": false,
+      "name": "Astral3218",
+      "xuid": 2535456992578303
     },
     {
       "ignoresPlayerLimit": false,
