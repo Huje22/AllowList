@@ -91,7 +91,12 @@
       "name": "GabiKotel2137",
       "xuid": 2535412769156204
     },
-    {
+        {
+      "ignoresPlayerLimit": false,
+      "name": "Nerkolek2019",
+      "xuid": 2535448006020715
+    },
+{
       "ignoresPlayerLimit": false,
       "name": "ZimekGaming",
       "xuid": 2535422187492412
