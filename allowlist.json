@@ -119,7 +119,12 @@
     	    {
  "ignoresPlayerLimit": false,
         "name": "AdoVskiYT",
- "xuid": "2535424191364965"
+ "xuid": 2535424191364965
+    },
+    {
+        "ignoresPlayerLimit": true,
+        "name": "Lisica89",
+        "xuid": 2535458046418183
     },
      {
       "ignoresPlayerLimit": false,
