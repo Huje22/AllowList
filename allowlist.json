@@ -53,6 +53,12 @@
     },
     
     //Osoby sezon 4+
+
+   {
+      "ignoresPlayerLimit": false,
+      "name": "ThrowingPanda71",
+      "xuid": 2535414423881976
+    },
     {
       "ignoresPlayerLimit": false,
       "name": "DEMONEK5656",
